@@ -41,11 +41,11 @@
         function_layer {
             label = "Fnc";
             bindings = <
-&kp ESC     &kp BACKSPACE  &trans     &trans         &trans       &kp LEFT_PARENTHESIS      &kp RIGHT_PARENTHESIS  &trans         &trans     &trans     &kp EQUAL             &trans
-&kp LCTRL   &kp DELETE     &kp HOME   &kp PAGE_DOWN  &kp PAGE_UP  &kp END                   &kp LEFT               &kp DOWN       &kp UP     &kp RIGHT  &kp NON_US_BACKSLASH  &kp INSERT
-&kp LSHIFT  &kp LALT       &kp DEL    &trans         &trans       &kp LEFT_BRACKET          &kp RIGHT_BRACKET      &trans         &trans     &trans     &kp SLASH             &trans
-&kp LALT    &trans         &trans                    &kp DELETE   &trans                    &trans                 &kp BACKSPACE             &trans     &trans                &kp RGUI
-&kp LEFT    &kp UP         &kp SPACE  &kp DOWN       &kp RIGHT                                                     &kp HOME       &kp PG_UP  &kp ENTER  &kp PG_DN             &kp END
+&kp ESC     &kp BACKSPACE  &trans     &trans         &trans       &kp LEFT_PARENTHESIS      &kp RIGHT_PARENTHESIS  &trans         &trans     &trans     &kp EQUAL      &trans
+&kp LCTRL   &kp DELETE     &kp HOME   &kp PAGE_DOWN  &kp PAGE_UP  &kp END                   &kp LEFT               &kp DOWN       &kp UP     &kp RIGHT  &kp BACKSLASH  &kp INSERT
+&kp LSHIFT  &kp LALT       &kp DEL    &trans         &trans       &kp LEFT_BRACKET          &kp RIGHT_BRACKET      &trans         &trans     &trans     &kp SLASH      &trans
+&kp LALT    &trans         &trans                    &kp DELETE   &trans                    &trans                 &kp BACKSPACE             &trans     &trans         &kp RGUI
+&kp LEFT    &kp UP         &kp SPACE  &kp DOWN       &kp RIGHT                                                     &kp HOME       &kp PG_UP  &kp ENTER  &kp PG_DN      &kp END
                                       &kp A                                                                                       &trans
             >;
 
